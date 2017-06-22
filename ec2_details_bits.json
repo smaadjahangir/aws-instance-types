@@ -26,7 +26,7 @@
   "c3.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 10000000000,
-    "Throughput_bits" : 4000000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32000
   },
   "c3.large" : {
@@ -56,7 +56,7 @@
   "c4.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 4000000000,
-    "Throughput_bits" : 4000000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32000
   },
   "c4.large" : {
@@ -74,19 +74,19 @@
   "cc2.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 10000000000,
-    "Throughput_bits" : 6400000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 50000
   },
   "cg1.4xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 40004000000000,
-    "Throughput_bits" : 6400000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 50000
   },
   "cr1.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 10000000000,
-    "Throughput_bits" : 6400000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 50000
   },
   "d2.2xlarge" : {
@@ -104,7 +104,7 @@
   "d2.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 4000000000,
-    "Throughput_bits" : 4000000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32000
   },
   "d2.xlarge" : {
@@ -134,19 +134,19 @@
   "g2.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 10000000000,
-    "Throughput_bits" : 4000000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32000
   },
   "hi1.4xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 4000000000,
-    "Throughput_bits" : 6400000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 50000
   },
   "hs1.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 10000000000,
-    "Throughput_bits" : 4000000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32000
   },
   "i2.2xlarge" : {
@@ -164,7 +164,7 @@
   "i2.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 10000000000,
-    "Throughput_bits" : 4000000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32000
   },
   "i2.xlarge" : {
@@ -242,13 +242,13 @@
   "m4.10xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 4000000000,
-    "Throughput_bits" : 4000000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32000
   },
   "m4.16xlarge" : {
     "Network_Gigabit" : "20 Gigabit",
     "Bandwidth_bits" : 10000000000,
-    "Throughput_bits" : 10000000000,
+    "Throughput_bits" : 20000000000,
     "IOPS_Max" : 65000
   },
   "m4.2xlarge" : {
@@ -278,13 +278,13 @@
   "p2.16xlarge" : {
     "Network_Gigabit" : "20 Gigabit",
     "Bandwidth_bits" : 10000000000,
-    "Throughput_bits" : 10000000000,
+    "Throughput_bits" : 20000000000,
     "IOPS_Max" : 65000
   },
   "p2.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 5000000000,
-    "Throughput_bits" : 5000000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32500
   },
   "p2.xlarge" : {
@@ -308,7 +308,7 @@
   "r3.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 9898000000,
-    "Throughput_bits" : 6400000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 32000
   },
   "r3.large" : {
@@ -326,37 +326,37 @@
   "r4.16xlarge" : {
     "Network_Gigabit" : "20 Gigabit",
     "Bandwidth_bits" : 12000000000,
-    "Throughput_bits" : 12000000000,
+    "Throughput_bits" : 20000000000,
     "IOPS_Max" : 75000
   },
   "r4.2xlarge" : {
     "Network_Gigabit" : "Up to 10 Gigabit",
     "Bandwidth_bits" : 1600000000,
-    "Throughput_bits" : 1600000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 12000
   },
   "r4.4xlarge" : {
     "Network_Gigabit" : "Up to 10 Gigabit",
     "Bandwidth_bits" : 3000000000,
-    "Throughput_bits" : 3200000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 18750
   },
   "r4.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_bits" : 6000000000,
-    "Throughput_bits" : 6400000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 37500
   },
   "r4.large" : {
     "Network_Gigabit" : "Up to 10 Gigabit",
     "Bandwidth_bits" : 400000000,
-    "Throughput_bits" : 400000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 3000
   },
   "r4.xlarge" : {
     "Network_Gigabit" : "Up to 10 Gigabit",
     "Bandwidth_bits" : 800000000,
-    "Throughput_bits" : 800000000,
+    "Throughput_bits" : 10000000000,
     "IOPS_Max" : 6000
   },
   "t1.micro" : {

@@ -410,13 +410,13 @@
   "x1.16xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_Bits" : 5000000000,
-    "Throughput_Bits" : 5000000000,
+    "Throughput_Bits" : 10000000000,
     "IOPS_Max" : 32500
   },
   "x1.32xlarge" : {
     "Network_Gigabit" : "20 Gigabit",
     "Bandwidth_Bits" : 10000000000,
-    "Throughput_Bits" : 10000000000,
+    "Throughput_Bits" : 20000000000,
     "IOPS_Max" : 65000
   }
 }

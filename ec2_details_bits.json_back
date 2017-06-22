@@ -1,0 +1,422 @@
+{
+  "c1.medium" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 800000000,
+    "Throughput_bits" : 256000000,
+    "IOPS_Max" : 2000
+  },
+  "c1.xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "c3.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "c3.4xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 2000000000,
+    "Throughput_bits" : 2000000000,
+    "IOPS_Max" : 16000
+  },
+  "c3.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 10000000000,
+    "Throughput_bits" : 4000000000,
+    "IOPS_Max" : 32000
+  },
+  "c3.large" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 4000
+  },
+  "c3.xlarge" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 500000000,
+    "IOPS_Max" : 4000
+  },
+  "c4.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "c4.4xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 2000000000,
+    "Throughput_bits" : 2000000000,
+    "IOPS_Max" : 16000
+  },
+  "c4.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 4000000000,
+    "Throughput_bits" : 4000000000,
+    "IOPS_Max" : 32000
+  },
+  "c4.large" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 500000000,
+    "IOPS_Max" : 4000
+  },
+  "c4.xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 750000000,
+    "Throughput_bits" : 750000000,
+    "IOPS_Max" : 6000
+  },
+  "cc2.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 10000000000,
+    "Throughput_bits" : 6400000000,
+    "IOPS_Max" : 50000
+  },
+  "cg1.4xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 40004000000000,
+    "Throughput_bits" : 6400000000,
+    "IOPS_Max" : 50000
+  },
+  "cr1.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 10000000000,
+    "Throughput_bits" : 6400000000,
+    "IOPS_Max" : 50000
+  },
+  "d2.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "d2.4xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 2000000000,
+    "Throughput_bits" : 2000000000,
+    "IOPS_Max" : 16000
+  },
+  "d2.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 4000000000,
+    "Throughput_bits" : 4000000000,
+    "IOPS_Max" : 32000
+  },
+  "d2.xlarge" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 750000000,
+    "Throughput_bits" : 750000000,
+    "IOPS_Max" : 6000
+  },
+  "f1.16xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 750000000,
+    "Throughput_bits" : 0,
+    "IOPS_Max" : 0
+  },
+  "f1.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 750000000,
+    "Throughput_bits" : 0,
+    "IOPS_Max" : 0
+  },
+  "g2.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "g2.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 10000000000,
+    "Throughput_bits" : 4000000000,
+    "IOPS_Max" : 32000
+  },
+  "hi1.4xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 4000000000,
+    "Throughput_bits" : 6400000000,
+    "IOPS_Max" : 50000
+  },
+  "hs1.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 10000000000,
+    "Throughput_bits" : 4000000000,
+    "IOPS_Max" : 32000
+  },
+  "i2.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "i2.4xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 2000000000,
+    "Throughput_bits" : 2000000000,
+    "IOPS_Max" : 16000
+  },
+  "i2.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 10000000000,
+    "Throughput_bits" : 4000000000,
+    "IOPS_Max" : 32000
+  },
+  "i2.xlarge" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 500000000,
+    "IOPS_Max" : 4000
+  },
+  "m1.large" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 500000000,
+    "IOPS_Max" : 4000
+  },
+  "m1.medium" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 80000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 4000
+  },
+  "m1.small" : {
+    "Network_Gigabit" : "Low",
+    "Bandwidth_bits" : 15000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 4000
+  },
+  "m1.xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "m2.2xlarge" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 500000000,
+    "IOPS_Max" : 4000
+  },
+  "m2.4xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "m2.xlarge" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 80000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 4000
+  },
+  "m3.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "m3.large" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 700000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 4000
+  },
+  "m3.medium" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 400000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 4000
+  },
+  "m3.xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 500000000,
+    "IOPS_Max" : 4000
+  },
+  "m4.10xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 4000000000,
+    "Throughput_bits" : 4000000000,
+    "IOPS_Max" : 32000
+  },
+  "m4.16xlarge" : {
+    "Network_Gigabit" : "20 Gigabit",
+    "Bandwidth_bits" : 10000000000,
+    "Throughput_bits" : 10000000000,
+    "IOPS_Max" : 65000
+  },
+  "m4.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "m4.4xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 2000000000,
+    "Throughput_bits" : 2000000000,
+    "IOPS_Max" : 16000
+  },
+  "m4.large" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 450000000,
+    "Throughput_bits" : 450000000,
+    "IOPS_Max" : 3600
+  },
+  "m4.xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 750000000,
+    "Throughput_bits" : 750000000,
+    "IOPS_Max" : 6000
+  },
+  "p2.16xlarge" : {
+    "Network_Gigabit" : "20 Gigabit",
+    "Bandwidth_bits" : 10000000000,
+    "Throughput_bits" : 10000000000,
+    "IOPS_Max" : 65000
+  },
+  "p2.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 5000000000,
+    "Throughput_bits" : 5000000000,
+    "IOPS_Max" : 32500
+  },
+  "p2.xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 750000000,
+    "Throughput_bits" : 750000000,
+    "IOPS_Max" : 6000
+  },
+  "r3.2xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 1000000000,
+    "IOPS_Max" : 8000
+  },
+  "r3.4xlarge" : {
+    "Network_Gigabit" : "High",
+    "Bandwidth_bits" : 2000000000,
+    "Throughput_bits" : 2000000000,
+    "IOPS_Max" : 16000
+  },
+  "r3.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 9898000000,
+    "Throughput_bits" : 6400000000,
+    "IOPS_Max" : 32000
+  },
+  "r3.large" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 618000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 4000
+  },
+  "r3.xlarge" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 500000000,
+    "IOPS_Max" : 4000
+  },
+  "r4.16xlarge" : {
+    "Network_Gigabit" : "20 Gigabit",
+    "Bandwidth_bits" : 12000000000,
+    "Throughput_bits" : 12000000000,
+    "IOPS_Max" : 65000
+  },
+  "r4.2xlarge" : {
+    "Network_Gigabit" : "Up to 10 Gigabit",
+    "Bandwidth_bits" : 1600000000,
+    "Throughput_bits" : 1600000000,
+    "IOPS_Max" : 12000
+  },
+  "r4.4xlarge" : {
+    "Network_Gigabit" : "Up to 10 Gigabit",
+    "Bandwidth_bits" : 3000000000,
+    "Throughput_bits" : 3200000000,
+    "IOPS_Max" : 16000
+  },
+  "r4.8xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_bits" : 6000000000,
+    "Throughput_bits" : 6400000000,
+    "IOPS_Max" : 32000
+  },
+  "r4.large" : {
+    "Network_Gigabit" : "Up to 10 Gigabit",
+    "Bandwidth_bits" : 400000000,
+    "Throughput_bits" : 400000000,
+    "IOPS_Max" : 3000
+  },
+  "r4.xlarge" : {
+    "Network_Gigabit" : "Up to 10 Gigabit",
+    "Bandwidth_bits" : 800000000,
+    "Throughput_bits" : 800000000,
+    "IOPS_Max" : 6000
+  },
+  "t1.micro" : {
+    "Network_Gigabit" : "Very Low",
+    "Bandwidth_bits" : 100000000,
+    "Throughput_bits" : 256000000,
+    "IOPS_Max" : 2000
+  },
+  "t2.2xlarge" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 1000000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 3000
+  },
+  "t2.large" : {
+    "Network_Gigabit" : "Low to Moderate",
+    "Bandwidth_bits" : 500000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 3000
+  },
+  "t2.medium" : {
+    "Network_Gigabit" : "Low to Moderate",
+    "Bandwidth_bits" : 300000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 3000
+  },
+  "t2.micro" : {
+    "Network_Gigabit" : "Low to Moderate",
+    "Bandwidth_bits" : 70000000,
+    "Throughput_bits" : 256000000,
+    "IOPS_Max" : 3000
+  },
+  "t2.nano" : {
+    "Network_Gigabit" : "Low",
+    "Bandwidth_bits" : 30000000,
+    "Throughput_bits" : 256000000,
+    "IOPS_Max" : 3000
+  },
+  "t2.small" : {
+    "Network_Gigabit" : "Low to Moderate",
+    "Bandwidth_bits" : 125000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 3000
+  },
+  "t2.xlarge" : {
+    "Network_Gigabit" : "Moderate",
+    "Bandwidth_bits" : 900000000,
+    "Throughput_bits" : 512000000,
+    "IOPS_Max" : 3000
+  },
+  "x1.16xlarge" : {
+    "Network_Gigabit" : "10 Gigabit",
+    "Bandwidth_Bits" : 5000000000,
+    "Throughput_Bits" : 5000000000,
+    "IOPS_Max" : 32500
+  },
+  "x1.32xlarge" : {
+    "Network_Gigabit" : "20 Gigabit",
+    "Bandwidth_Bits" : 10000000000,
+    "Throughput_Bits" : 10000000000,
+    "IOPS_Max" : 65000
+  }
+}

@@ -117,13 +117,13 @@
     "Network_Gigabit" : "High",
     "Bandwidth_Mbps" : 750,
     "Throughput_MBs" : 0,
-    "IOPS_Max" : 0
+    "IOPS_Max" : 75000
   },
   "f1.2xlarge" : {
     "Network_Gigabit" : "High",
     "Bandwidth_Mbps" : 750,
     "Throughput_MBs" : 0,
-    "IOPS_Max" : 0
+    "IOPS_Max" : 12000
   },
   "g2.2xlarge" : {
     "Network_Gigabit" : "High",
@@ -327,7 +327,7 @@
     "Network_Gigabit" : "20 Gigabit",
     "Bandwidth_Mbps" : 12000,
     "Throughput_MBs" : 1500,
-    "IOPS_Max" : 65000
+    "IOPS_Max" : 75000
   },
   "r4.2xlarge" : {
     "Network_Gigabit" : "Up to 10 Gigabit",
@@ -339,13 +339,13 @@
     "Network_Gigabit" : "Up to 10 Gigabit",
     "Bandwidth_Mbps" : 3000,
     "Throughput_MBs" : 400,
-    "IOPS_Max" : 16000
+    "IOPS_Max" : 18750
   },
   "r4.8xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
     "Bandwidth_Mbps" : 6000,
     "Throughput_MBs" : 800,
-    "IOPS_Max" : 32000
+    "IOPS_Max" : 37500
   },
   "r4.large" : {
     "Network_Gigabit" : "Up to 10 Gigabit",

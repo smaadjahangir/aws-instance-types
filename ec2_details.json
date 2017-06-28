@@ -373,7 +373,7 @@
   },
   "t2.large" : {
     "Network_Gigabit" : "Low to Moderate",
-    "Bandwidth_Mbps" : 500,
+    "Bandwidth_Mbps" : 700,
     "Throughput_MBs" : 64,
     "IOPS_Max" : 3000
   },

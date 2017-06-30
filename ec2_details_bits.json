@@ -369,19 +369,19 @@
     "Network_Gigabit" : "Moderate",
     "Bandwidth_bits" : 1000000000,
     "Throughput_bits" : 512000000,
-    "IOPS_Max" : 3000
+    "IOPS_Max" : 8000
   },
   "t2.large" : {
     "Network_Gigabit" : "Low to Moderate",
     "Bandwidth_bits" : 500000000,
     "Throughput_bits" : 512000000,
-    "IOPS_Max" : 3000
+    "IOPS_Max" : 3600
   },
   "t2.medium" : {
     "Network_Gigabit" : "Low to Moderate",
     "Bandwidth_bits" : 300000000,
     "Throughput_bits" : 512000000,
-    "IOPS_Max" : 3000
+    "IOPS_Max" : 3600
   },
   "t2.micro" : {
     "Network_Gigabit" : "Low to Moderate",
@@ -405,7 +405,7 @@
     "Network_Gigabit" : "Moderate",
     "Bandwidth_bits" : 900000000,
     "Throughput_bits" : 512000000,
-    "IOPS_Max" : 3000
+    "IOPS_Max" : 6000
   },
   "x1.16xlarge" : {
     "Network_Gigabit" : "10 Gigabit",

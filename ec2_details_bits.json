@@ -368,43 +368,43 @@
   "t2.2xlarge" : {
     "Network_Gigabit" : "Moderate",
     "Bandwidth_bits" : 1000000000,
-    "Throughput_bits" : 512000000,
+    "Throughput_bits" : 960000000,
     "IOPS_Max" : 8000
   },
   "t2.large" : {
     "Network_Gigabit" : "Low to Moderate",
     "Bandwidth_bits" : 500000000,
-    "Throughput_bits" : 512000000,
+    "Throughput_bits" : 880000000,
     "IOPS_Max" : 3600
   },
   "t2.medium" : {
     "Network_Gigabit" : "Low to Moderate",
     "Bandwidth_bits" : 300000000,
-    "Throughput_bits" : 512000000,
+    "Throughput_bits" : 824000000,
     "IOPS_Max" : 3600
   },
   "t2.micro" : {
     "Network_Gigabit" : "Low to Moderate",
     "Bandwidth_bits" : 70000000,
-    "Throughput_bits" : 256000000,
+    "Throughput_bits" : 784000000,
     "IOPS_Max" : 3000
   },
   "t2.nano" : {
     "Network_Gigabit" : "Low",
     "Bandwidth_bits" : 30000000,
-    "Throughput_bits" : 256000000,
+    "Throughput_bits" : 392000000,
     "IOPS_Max" : 3000
   },
   "t2.small" : {
     "Network_Gigabit" : "Low to Moderate",
     "Bandwidth_bits" : 125000000,
-    "Throughput_bits" : 512000000,
+    "Throughput_bits" : 792000000,
     "IOPS_Max" : 3000
   },
   "t2.xlarge" : {
     "Network_Gigabit" : "Moderate",
     "Bandwidth_bits" : 900000000,
-    "Throughput_bits" : 512000000,
+    "Throughput_bits" : 920000000,
     "IOPS_Max" : 6000
   },
   "x1.16xlarge" : {

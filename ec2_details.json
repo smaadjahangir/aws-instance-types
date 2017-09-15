@@ -409,13 +409,13 @@
   },
   "x1.16xlarge" : {
     "Network_Gigabit" : "10 Gigabit",
-    "Bandwidth_Mbps" : 5000,
+    "Bandwidth_Mbps" : 7000,
     "Throughput_MBs" : 625,
     "IOPS_Max" : 32500
   },
   "x1.32xlarge" : {
     "Network_Gigabit" : "25 Gigabit",
-    "Bandwidth_Mbps" : 10000,
+    "Bandwidth_Mbps" : 14000,
     "Throughput_MBs" : 1250,
     "IOPS_Max" : 65000
   }

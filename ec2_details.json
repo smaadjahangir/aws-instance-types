@@ -414,7 +414,7 @@
     "IOPS_Max" : 32500
   },
   "x1.32xlarge" : {
-    "Network_Gigabit" : "20 Gigabit",
+    "Network_Gigabit" : "25 Gigabit",
     "Bandwidth_Mbps" : 10000,
     "Throughput_MBs" : 1250,
     "IOPS_Max" : 65000

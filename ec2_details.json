@@ -355,7 +355,7 @@
   },
   "r4.xlarge" : {
     "Network_Gigabit" : "Up to 10 Gigabit",
-    "Bandwidth_Mbps" : 800,
+    "Bandwidth_Mbps" : 850,
     "Throughput_MBs" : 100,
     "IOPS_Max" : 6000
   },
